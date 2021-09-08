@@ -1,8 +1,13 @@
 body {
+/* align-items: center;    */
   background-color: #00B6C7;
+/* background-color: hsl(185, 75%, 39%); */
+/* background-repeat: no-repeat, no-repeat; */
+/* display: flex; 	 */
   font-family: "Kumbh Sans", sans-serif;
   font-size: 18px;
   height: 100%;
+/*   justify-content: center; */
   margin: 0;
   /* background-image: url("../images/bg-pattern-top.svg"), url("../images/bg-pattern-bottom.svg"); */
   background-size: contain;
@@ -19,7 +24,10 @@ html {
 
 *, *:before, *:after {
   box-sizing: inherit;
-}
+/* box-sizing: border-box;
+	margin: 0;
+	padding: 0; 
+} */
 
 h3, h4 {
   color: #2D3248;
@@ -111,25 +119,6 @@ p {
 
 .attribution a {
   text-align: center;
-}
-
-/* 
-*, *::after, *::before {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
-body {
-    font-family: 'Kumbh Sans', sans-serif;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
-    background-repeat: no-repeat, no-repeat;
-    background-position: right 50vw bottom 50vh, 50vw 50vh;
-    background-color: hsl(185, 75%, 39%);
 }
 
 .card {
