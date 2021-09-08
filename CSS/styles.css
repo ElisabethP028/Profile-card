@@ -122,21 +122,21 @@ p {
   text-align: center;
 }
 
- .card {
+/*  .card {
     max-width: 350px;
     width: 90%;
 /*     background: url(./images/bg-pattern-card.svg) no-repeat 100% top; */
     /* max-width: 400px; */
-    background-size: contain;
+/*     background-size: contain;
     background-color: white;
     border-radius: 20px;
     box-shadow: 0 5px 40px 0px hsl(0, 0%, 40%);
-}
+} */
  
-img {
+/* img {
     display: block;
     /* max-width: 100%; */
-    margin: 5em auto 0;
+/*     margin: 5em auto 0;
     border: 5px solid white;
     border-radius: 50%;
     margin-bottom: 8px;
@@ -147,9 +147,9 @@ h1 {
     text-align: center;
     font-weight: 700;
     color: hsl(229, 23%, 23%);
-}
-
-.age, .country {
+} */
+ 
+/* .age, .country {
     color: hsl(227, 10%, 46%);
     font-weight: 400;
 }
@@ -158,8 +158,8 @@ h1 {
     margin-top: 6px;
     text-align: center;
 }
-
-.stats {
+ */
+/* .stats {
     margin-top: 25px;
     border-top: 1px solid hsl(227, 10%, 86%);
     width: 100%;
@@ -167,22 +167,23 @@ h1 {
     justify-content: space-evenly;
     align-items: center;
     padding: 25px;
-}
+} */
 
-h2 {
+/* h2 {
     font-size: 18px;
     font-weight: 700;
     color: hsl(229, 23%, 23%);
     margin-bottom: 5px;
     text-align: center;
-}
+} */
 
-.stats p {
+/* .stats p {
     text-align: center;
     font-size: 12px;
     font-weight: 400;
     color: hsl(0, 0%, 59%);
 }
+  */
 
 /* @media (max-width:386px) {
     .card {
