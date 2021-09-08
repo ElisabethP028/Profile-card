@@ -122,17 +122,17 @@ p {
   text-align: center;
 }
 
-/* .card {
+ .card {
     max-width: 350px;
     width: 90%;
-    background: url(./images/bg-pattern-card.svg) no-repeat 100% top;
+/*     background: url(./images/bg-pattern-card.svg) no-repeat 100% top; */
     /* max-width: 400px; */
     background-size: contain;
     background-color: white;
     border-radius: 20px;
     box-shadow: 0 5px 40px 0px hsl(0, 0%, 40%);
 }
- */
+ 
 img {
     display: block;
     /* max-width: 100%; */
@@ -184,11 +184,12 @@ h2 {
     color: hsl(0, 0%, 59%);
 }
 
-@media (max-width:386px) {
+/* @media (max-width:386px) {
     .card {
         width: 100%;
     }
     img {
         margin: 4em auto 1rem;
     }
-} */
+} 
+ */
